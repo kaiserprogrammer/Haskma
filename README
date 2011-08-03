@@ -1,0 +1,8 @@
+Haskma is an implementation of an Enigma
+
+you can compile it with: ghc --make
+
+When started you can type in a message and it returns the encrypted
+message. To decrypt it you have to type the encrypted message in to
+the program. Rotors are provided in the code. If you want to add more
+you have to add them to "rots" which is a list of rotors.
